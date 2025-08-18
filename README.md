@@ -28,5 +28,15 @@ Trigger Condition:
 * Rolling volatility > 2%
 Purpose: Detect unstable periods where sustained losses and volatility suggest a crash risk
 
+## charts
+<img width="1239" height="482" alt="chart 1" src="https://github.com/user-attachments/assets/b66ea879-4fda-449f-99dc-2297e21277fc" />
+
+
+<img width="1228" height="492" alt="chart 2" src="https://github.com/user-attachments/assets/2496c54b-36d3-481f-8a1d-ae601cb5514f" />
+
+<img width="1234" height="494" alt="chart 3" src="https://github.com/user-attachments/assets/d3f9ba66-0f4b-4d11-bbfd-f90fac365284" />
+
+
+
 
 
